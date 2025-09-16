@@ -1,0 +1,2 @@
+Feature Extractor          Algorithm  Accuracy
+  CountVectorizer LogisticRegression  0.927119
